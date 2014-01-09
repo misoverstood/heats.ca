@@ -1,2 +1,2 @@
-heats-ca.github.com
+heats.ca
 ==================
